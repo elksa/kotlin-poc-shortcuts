@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Demo Shortcuts</string>
+    <string name="title_main">Home screen</string>
+    <string name="title_shortcut1">Static Shortcut 1</string>
+    <string name="desc_shortcut1">Shortcut 1 description</string>
+    <string name="title_shortcut2">Static Shortcut 2</string>
+    <string name="desc_shortcut2">Shortcut 2 description</string>
+    <string name="title_shortcut3">Shortcut 3</string>
+    <string name="desc_shortcut3">Shortcut 3 description</string>
+    <string name="disabled_shortcut3">Shortcut 3 disabled</string>
+    <string name="title_dynamic_web">Dynamic Web</string>
+    <string name="desc_dynamic_web">Dynamic Web description</string>
+    <string name="title_dynamic1">Dynamic 1</string>
+    <string name="title_dynamic2">Dynamic 2</string>
+    <string name="desc_dynamic1">Dynamic 1 description</string>
+    <string name="desc_dynamic2">Dynamic 2 description</string>
+    <string name="btn_add_shortcuts">Add Shortcuts</string>
+    <string name="btn_add_shortcut_web">Add Shortcut Web</string>
+    <string name="btn_add_shortcut_2">Add Shortcut 2</string>
+    <string name="btn_remove_shortcut_web">Remove Shortcut Web</string>
+    <string name="btn_remove_shortcut_2">Remove Shortcut 2</string>
+    <string name="btn_disable_shortcut_2">Disable Shortcut 2</string>
+    <string name="disabled_shortcut2">Shortcut 2 is disabled</string>
+    <string name="btn_remove_shortcuts">Remove all Shortcuts</string>
+    <string name="btn_go_library">Navigate to Library</string>
+    <string name="format_shortcut_info">Name: %1$s - Rank: %2$d</string>
+</resources>

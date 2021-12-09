@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_shortcut_library">Home library</string>
+    <string name="desc_dynamic_library">Dynamic Library description</string>
+    <string name="btn_add_shortcut_library">Add Shortcut Library</string>
+</resources>
